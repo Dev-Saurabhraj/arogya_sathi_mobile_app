@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426617701086",
+    "project_id": "arogya-sathi-2150c",
+    "storage_bucket": "arogya-sathi-2150c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426617701086:android:c14d59e940ca84477ef84f",
+        "android_client_info": {
+          "package_name": "com.example.arogya_sathi_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ncoGVvFedoJi2aCMYy4gVHdK0EaaBdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
