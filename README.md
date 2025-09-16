@@ -1,16 +1,45 @@
-# arogya_sathi_2
+# 🏥 Arogya Sathi  
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?logo=flutter)  
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase)  
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+![Status](https://img.shields.io/badge/Status-Under%20Development-yellow)  
 
-## Getting Started
+*Arogya Sathi* is a healthcare companion app designed for rural communities in India.  
+It provides vaccination schedules, outbreak alerts, digital vaccination ID cards, and a healthcare chatbot in a simple, minimal UI.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ **Vaccination Management** – Track schedule & generate digital vaccination ID card  
+✅ **Profile Section** – Save details like Name, Phone, Age, and Pincode  
+✅ **Outbreak Alerts** – Real-time outbreak notifications with precautions  
+✅ **Health Chatbot** – Ask questions about vaccination & healthcare  
+✅ **Minimal UI** – Simple, large-text design for rural audiences  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots  
+
+<p align="center">
+  <img src="screenshots/home.png" alt="Home Screen" width="250"/>
+  <img src="screenshots/profile.png" alt="Profile Screen" width="250"/>
+  <img src="screenshots/outbreak.png" alt="Outbreak Alerts" width="250"/>
+</p>  
+
+*(Add your actual app screenshots in the `screenshots/` folder of your repo.)*  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** [Flutter](https://flutter.dev/)  
+- **Backend:** [Firebase](https://firebase.google.com/) (Authentication, Firestore, Cloud Messaging)  
+- **Notifications:** Firebase Cloud Messaging (FCM)  
+- **Chatbot:** Dialogflow / RASA / Custom API (future integration)  
+
+---
+
+## 📂 Folder Structure  
+
