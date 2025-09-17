@@ -23,8 +23,8 @@ It provides vaccination schedules, outbreak alerts, digital vaccination ID cards
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="asseets/images/login_page.jpg" alt="Home Screen" width="250"/>
-  <img src="asseets/images/home_page.jpg" alt="Profile Screen" width="250"/>
+  <img src="assets/images/login_page.jpg" alt="Home Screen" width="250"/>
+  <img src="assets/images/home_page.jpg" alt="Profile Screen" width="250"/>
   <img src="screenshots/outbreak.png" alt="Outbreak Alerts" width="250"/>
 </p>  
 
