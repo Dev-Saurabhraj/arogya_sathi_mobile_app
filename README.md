@@ -41,5 +41,3 @@ It provides vaccination schedules, outbreak alerts, digital vaccination ID cards
 
 ---
 
-## 📂 Folder Structure  
-
