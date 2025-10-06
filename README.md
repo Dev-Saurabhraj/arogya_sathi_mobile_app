@@ -17,18 +17,26 @@ It provides vaccination schedules, outbreak alerts, digital vaccination ID cards
 ✅ **Outbreak Alerts** – Real-time outbreak notifications with precautions  
 ✅ **Health Chatbot** – Ask questions about vaccination & healthcare  
 ✅ **Minimal UI** – Simple, large-text design for rural audiences  
+✅ **Multilingual** – Support hindi or english language
+✅ **Text-To-Speech** – Hindi or English language voice support
+✅ **Speech-To-Text** – Hindi or English language voice support
+
 
 ---
 
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="screenshots/home.png" alt="Home Screen" width="250"/>
-  <img src="screenshots/profile.png" alt="Profile Screen" width="250"/>
-  <img src="screenshots/outbreak.png" alt="Outbreak Alerts" width="250"/>
+  <img src="assets/images/login_page.jpg" alt="login Screen" width="250"/>
+  <img src="assets/images/home_page.jpg" alt="home Screen" width="250"/>
+  <img src="assets/images/profile_page.jpg" alt="Profile Screen" width="250"/>
+  <img src="assets/images/record_page.jpg" alt="record Screen" width="250"/>
+  <img src="assets/images/outbreak_page.jpg" alt="outbreak Screen" width="250"/>
+  <img src="assets/images/chat_bot.jpg" alt="chatbot Screen" width="250"/>
+  <img src="assets/images/id_card_page.jpg" alt="idcard Screen" width="250"/>
+
 </p>  
 
-*(Add your actual app screenshots in the `screenshots/` folder of your repo.)*  
 
 ---
 
@@ -40,6 +48,4 @@ It provides vaccination schedules, outbreak alerts, digital vaccination ID cards
 - **Chatbot:** Dialogflow / RASA / Custom API (future integration)  
 
 ---
-
-## 📂 Folder Structure  
 
